@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Yasser Mohamed/CLionProjects/2_tree_height/main.cpp
+algorithm
+-
+iostream
+-
+vector
+-
+sys/resource.h
+-
+
